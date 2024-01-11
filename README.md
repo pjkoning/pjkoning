@@ -2,7 +2,7 @@
 - 👀 I’m interested in Swift and Kotlin.
 - 🌱 I’m currently learning GitHub.
 - 💞️ I’m looking to collaborate on audio-apps.
-- 📫 How to reach me pjkoning@icloud.com
+- 📫 How to reach me info@radioned.nl
 
 <!---
 pjkoning/pjkoning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
